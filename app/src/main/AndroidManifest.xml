@@ -11,11 +11,6 @@
         android:roundIcon="@drawable/dataflair"
         android:supportsRtl="true"
         android:theme="@style/Theme.JobPortal">
-        <activity android:name=".Activities.JobDetailsActivity"></activity>
-        <activity android:name=".Activities.AdminActivity" />
-        <activity android:name=".Activities.RoleActivity" />
-        <activity android:name=".Activities.LoginActivity" />
-        <activity android:name=".Activities.StartingActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
